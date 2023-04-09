@@ -1,4 +1,4 @@
-# Steaganography
+# Steganography
 - Challenge Name : Guatemala
 - Difficulty :  Easy
 
