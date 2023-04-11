@@ -24,4 +24,4 @@ There are various categories of challenges like:
 
 For any doubts or queries regarding the writeups/challenges kindly reach out to the authors.
 
-# [Click Here](https://github.com/thisisthedarshan) to access the writeups
+# [Click Here](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups) to access the writeups
