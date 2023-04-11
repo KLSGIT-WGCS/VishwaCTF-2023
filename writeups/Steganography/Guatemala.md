@@ -8,39 +8,7 @@ My friend wanted to install an antivirus for his computer, but the creator of th
 ## Methodology
 A .gif file was provided with the challenge. A seemingly normal gif with absolutely nothing hidden in it (or was there).
 
-We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. Doing this gave us the following results:
-
-ExifTool Version Number         : 12.57
-
-File Name                       : AV.gif
-
-Directory                       : ..
-
-File Size                       : 1112 kB
-
-File Modification Date/Time     : 2023:04:01 12:43:55+05:30
-
-File Access Date/Time           : 2023:04:02 14:30:03+05:30
-
-File Inode Change Date/Time     : 2023:04:01 12:43:55+05:30
-
-File Permissions                : -rw-r--r--
-
-File Type                       : GIF
-
-File Type Extension             : gif
-
-MIME Type                       : image/gif
-
-GIF Version                     : 89a
-
-Image Width                     : 498
-
-Image Height                    : 498
-
-Has Color Map                   : Yes
-
-Color Resolution Depth          : 8
+We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. An extract of the metadata given by Exiftool :
 
 Bits Per Pixel                  : 8
 
