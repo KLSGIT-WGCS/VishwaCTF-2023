@@ -10,21 +10,21 @@ A .gif file was provided with the challenge. A seemingly normal gif with absolut
 
 We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. An extract of the metadata given by Exiftool :
 
-Bits Per Pixel                  : 8
+>Bits Per Pixel                  : 8
+>
+>Background Color                : 0
+>
+>Animation Iterations            : Infinite
 
-Background Color                : 0
-
-Animation Iterations            : Infinite
-
-**Comment                         : dmlzaHdhQ1RGe3ByMDczYzdfdXJfM1gxRn0=**
-
-Frame Count                     : 17
-
-Duration                        : 2.04 s
-
-Image Size                      : 498x498
-
-Megapixels                      : 0.248
+>**Comment                         : dmlzaHdhQ1RGe3ByMDczYzdfdXJfM1gxRn0=**
+>
+>Frame Count                     : 17
+>
+>Duration                        : 2.04 s
+>
+>Image Size                      : 498x498
+>
+>Megapixels                      : 0.248
 
 Note the boldened attribute, it seems a bit fishy. The value of the comment seems to be a base64 encoded string. We then used an online base64 decoder (there's plenty) and voila, we have our flag !!
 
