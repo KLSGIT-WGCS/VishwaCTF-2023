@@ -32,8 +32,10 @@ This fetched a single record :
 
 > 715	SW	2023	3	27	21	45	OV-007
 
-SW was the town code and OV-007 was the escape vehicle. Cross referencing with other tables with SELECT statements the flag was :
+SW was the town code and OV-007 was the escape vehicle. Cross referencing with other tables with SELECT statements the culprit was Wellington East and he tried escaping to Springwood as indicated by SW. Justice is served !! 
+
+The flag was :
 
 > vishwaCTF{WellingtonEastSpringwood}
 
-And it was correct !! This is an example where it shows how the importance of attention to detail, and going over the given materials carefully before proceeding.
+And it was correct !! This is an example where it shows the importance of attention to detail, and going over the given materials carefully before proceeding. Remember that these little details are almost always hidden in plain sight...
