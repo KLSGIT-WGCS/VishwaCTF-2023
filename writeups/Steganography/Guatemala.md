@@ -5,8 +5,10 @@
 ## Challenge Description
 My friend wanted to install an antivirus for his computer, but the creator of the antivirus was caught!
 
+Assets/files : AV.gif
+
 ## Methodology
-A .gif file was provided with the challenge. A seemingly normal gif with absolutely nothing hidden in it (or was there).
+A .gif file was provided with the challenge. A seemingly normal gif that totally did not have anything hidden in it (or did it).
 
 We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. An extract of the metadata given by Exiftool :
 
@@ -36,4 +38,4 @@ You can also use **"base64"** a cmd-line tool built into linux. That will go som
 
 flag is the file-path of the file that contains the encoded string
 
-Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research abou it!). That's how you can figure out that it is encoded in base64 !!
+Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research about it!). That's how you can figure out that it is encoded in base64 !!
