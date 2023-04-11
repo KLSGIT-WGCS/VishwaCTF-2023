@@ -11,6 +11,8 @@ Authors:
 
 ###### 👀 [@thisisthedarshan](https://github.com/thisisthedarshan)
 
+---------
+
 ## What even is a CTF?
 A CTF(Capture the flag) is a information security contest where participants are given a number of challenges relevant to computer security. Solving these challenges leads to a secret code often called **flag**, which is then submitted on the CTF platform to earn points and climb up the scoreboard to win.
 
