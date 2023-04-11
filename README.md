@@ -1,7 +1,6 @@
 # VishwaCTF-2023
 
-![vishwa_poster]("https://github.com/KLSGIT-WGCS/VishwaCTF-2023/assets/blob/main/VishwaCTF_Poster.png?raw=true")
-
+*Resources from KLSGIT-WGCS*
 
 ---------
 This repository contains writeups of the various challenges solved by team fs0ciety in VishwaCTF 2023.
