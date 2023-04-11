@@ -28,11 +28,12 @@ We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exifto
 
 Note the boldened comment attribute, it seems a bit fishy. The value of the comment seems to be a base64 encoded string. We then used an online base64 decoder (there's plenty) and voila, we have our flag !!
 
+> vishwaCTF{pr073c7_ur_3X1F}
+
 You can also use **"base64"** a cmd-line tool built into linux. That will go something like this: 
+
 > base64 -d flag 
 
 flag is the file-path of the file that contains the encoded string
-
-> vishwaCTF{pr073c7_ur_3X1F}
 
 Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research abou it!). That's how you can figure out that it is encoded in base64 !!
