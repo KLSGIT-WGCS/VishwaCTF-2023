@@ -1,6 +1,6 @@
 # VishwaCTF-2023
 
-![vishwa_poster]("https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/VishwaCTF_Poster.png?raw=true")
+![vishwa_poster]("https://github.com/KLSGIT-WGCS/VishwaCTF-2023/assets/blob/main/VishwaCTF_Poster.png?raw=true")
 
 
 ---------
