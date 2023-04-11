@@ -39,4 +39,4 @@ Note the boldened attribute, it seems a bit fishy. The value of the comment seem
 
 > vishwaCTF{pr073c7_ur_3X1F}
 
-Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research abou it!). That's how you can figure out that it is encoded in base64 !!`
+Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research abou it!). That's how you can figure out that it is encoded in base64 !!
