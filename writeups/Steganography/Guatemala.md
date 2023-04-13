@@ -5,7 +5,7 @@
 ## Challenge Description
 My friend wanted to install an antivirus for his computer, but the creator of the antivirus was caught!
 
-Assets/files : AV.gif
+##### Assets/files : [AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography/assets/AV.gif)
 
 ## Methodology
 A .gif file was provided with the challenge. A seemingly normal gif that totally did not have anything hidden in it (or did it 👀).
