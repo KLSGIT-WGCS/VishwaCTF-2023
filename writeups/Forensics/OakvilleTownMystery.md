@@ -44,7 +44,7 @@ The flag was :
 
 And it was correct !! This is an example where it shows the importance of attention to detail, and going over the given materials carefully before proceeding. Remember that these little details are almost always hidden in plain sight 👀
 
-# 
+*********
 
 ###### Hey there! If you're looking to work with SQL without downloading or installing any software, there's an awesome option for you! Just use any browser-based SQL viewer like the one provided at this link: https://sqliteviewer.app/.
 
