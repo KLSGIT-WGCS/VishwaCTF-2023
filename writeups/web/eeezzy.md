@@ -33,7 +33,7 @@ We have two things one is login form and view source code option in the right bo
 
 So we have something fishy over here...
 
-The code has stringcompare vulnerablity known as strcmp()
+The code has stringcompare vulnerablity known as strcmp(), to identify the vulnerablity you can even use Chatgpt, by feeding the code to it and knowing the function of the code and later surfing about it on google, remeber in every challenge google and chatgpt are your bestfriends.
 
 Find more about it here https://www.doyler.net/security-not-included/bypassing-php-strcmp-abctf2016
 
