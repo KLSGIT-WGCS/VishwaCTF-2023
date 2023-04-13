@@ -1,5 +1,9 @@
 # VishwaCTF-2023
 
+----------
+
+![Poster](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png)
+
 *Resources from KLSGIT-WGCS*
 
 ---------
