@@ -8,7 +8,7 @@ My friend wanted to install an antivirus for his computer, but the creator of th
 Assets/files : AV.gif
 
 ## Methodology
-A .gif file was provided with the challenge. A seemingly normal gif that totally did not have anything hidden in it (or did it).
+A .gif file was provided with the challenge. A seemingly normal gif that totally did not have anything hidden in it (or did it 👀).
 
 We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. An extract of the metadata given by Exiftool :
 
@@ -34,7 +34,7 @@ Note the boldened comment attribute, it seems a bit fishy. The value of the comm
 
 You can also use **"base64"** a cmd-line tool built into linux. That will go something like this: 
 
-> base64 -d flag 
+> base64 -d file-path
 
 Create a file and paste the encoded string in the file. Then execute the above command with that file-path and that will get you the same result.
 
