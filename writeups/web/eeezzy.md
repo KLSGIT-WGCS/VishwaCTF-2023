@@ -5,7 +5,7 @@
 ## Challenge Description
 I forgot my login details again!
 
-##### Assets/files : [AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography/assets/AV.gif)
+
 
 ## Methodology
 A web instance was provided to us where we needed to get the flag. 
