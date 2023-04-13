@@ -40,6 +40,14 @@ SW was the town code and OV-007 was the escape vehicle. Cross referencing with o
 
 The flag was :
 
-> vishwaCTF{WellingtonEastSpringwood}
+> vishwaCTF{WellingtonEastSpringwood} 🥳
 
-And it was correct !! This is an example where it shows the importance of attention to detail, and going over the given materials carefully before proceeding. Remember that these little details are almost always hidden in plain sight...
+And it was correct !! This is an example where it shows the importance of attention to detail, and going over the given materials carefully before proceeding. Remember that these little details are almost always hidden in plain sight 👀
+
+# 
+
+###### Hey there! If you're looking to work with SQL without downloading or installing any software, there's an awesome option for you! Just use any browser-based SQL viewer like the one provided at this link: https://sqliteviewer.app/.
+
+> It's great to see how cybersecurity isn't just about complex solutions, but also about finding solutions in any way possible! So cool! :D
+
+###### However, it's always good to remember that online sources may not always be trustworthy and might potentially leak sensitive information. Therefore, sometimes it's better to prioritize data security over convenience. That's why, *going old school can be the safest option* 🦺.
