@@ -2,3 +2,4 @@
 
 * [Steganography](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography)
 * [Web](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/web)
+* [Forensics](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics)
