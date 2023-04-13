@@ -36,6 +36,6 @@ You can also use **"base64"** a cmd-line tool built into linux. That will go som
 
 > base64 -d flag 
 
-flag is the file-path of the file that contains the encoded string
+Create a file and paste the encoded string in the file. Then execute the above command with that file-path and that will get you the same result.
 
 Tip: base64 encoded strings will ***usually*** end with the '=' sign (Why? Research about it!). That's how you can figure out that it is encoded in base64 !!
