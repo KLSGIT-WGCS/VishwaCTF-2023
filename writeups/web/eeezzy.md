@@ -1,10 +1,9 @@
-# eeezzy
+# Web
 - Challenge Name : eeezzy
 - Difficulty :  Easy
 
 ## Challenge Description
 I forgot my login details again!
-
 
 
 ## Methodology
@@ -41,7 +40,7 @@ The code is using strcmp() to comapre the input fields. We need to bypass the if
 
 To identify the vulnerablity and how to exploit it you can even use Chatgpt, by feeding the code to it and knowing the function of the code and later surfing about it on google, remember in every challenge google and chatgpt are your bestfriends. But it's always a good idea to familiarise yourself with the code and understand by researching by hand.
 
-Find more about it here https://www.doyler.net/security-not-included/bypassing-php-strcmp-abctf2016
+Go through this article to understand the vulnerability in detail : https://www.doyler.net/security-not-included/bypassing-php-strcmp-abctf2016
 
 Now enter some random strings in User and Pwd form or can even submit [SPACE] to avoid confusions intercepting it in URL.
 
@@ -56,7 +55,7 @@ To
 For example if the url is challenge.com/?username=admin&password=admin&submit=Login
 it will look like challenge.com/?username=&password[]=&submit=Login after changing
 
-Here is the flag in the form of error. 
+Here is the flag in the form of error.
 
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/121932742/231860272-a9c5e469-4bfa-4c24-a8d8-34b529592302.png">
 
