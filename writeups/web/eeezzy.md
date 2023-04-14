@@ -59,6 +59,6 @@ Here is the flag in the form of error.
 
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/121932742/231860272-a9c5e469-4bfa-4c24-a8d8-34b529592302.png">
 
-**VishwaCTF{5t0p_c0mp4r1ng}**
+> VishwaCTF{5t0p_c0mp4r1ng}
 
 
