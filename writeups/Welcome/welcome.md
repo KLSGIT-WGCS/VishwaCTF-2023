@@ -1,6 +1,6 @@
 # Welcome
 - Challenge Name : Welcome to VishwaCTF 2023 !!
-- Difficulty :  Easy
+- Difficulty :  Beginner
 
 ## Challenge Description
 Here you go with your first flag!!!
