@@ -19,21 +19,27 @@ We have two things one is login form and view source code option in the right bo
 ```
 <?php  
   
-    session_start();    $_SESSION['status']=null;    $flag="";  
+    session_start();    
+    $_SESSION['status']=null;    $flag="";  
     try {  
         if (isset($_GET['username']) && isset($_GET['password'])) {  
-            if (strcmp($_GET['username'], $flag)==0 && strcmp($_GET['password'], $flag)==0)                $_SESSION['status']=$flag;  
-            else                $_SESSION['status']="Invalid username or password";  
+            if (strcmp($_GET['username'], $flag)==0 && strcmp($_GET['password'], $flag)==0)                
+            $_SESSION['status']=$flag;  
+        else                
+            $_SESSION['status']="Invalid username or password";  
         }  
-    } catch (Throwable $th) {        $_SESSION['status']=$flag;  
+    } catch (Throwable $th) {        
+        $_SESSION['status']=$flag;  
     }  
   
 ?>
 ```
 
-So we have something fishy over here...
+Notice the if condition...
 
-The code has stringcompare vulnerablity known as strcmp(), to identify the vulnerablity you can even use Chatgpt, by feeding the code to it and knowing the function of the code and later surfing about it on google, remeber in every challenge google and chatgpt are your bestfriends.
+The code is using strcmp() to comapre the input fields. We need to bypass the if condition so that we can the flag is returned as response instead of the error message.
+
+To identify the vulnerablity and how to exploit it you can even use Chatgpt, by feeding the code to it and knowing the function of the code and later surfing about it on google, remember in every challenge google and chatgpt are your bestfriends. But it's always a good idea to familiarise yourself with the code and understand by researching by hand.
 
 Find more about it here https://www.doyler.net/security-not-included/bypassing-php-strcmp-abctf2016
 
@@ -47,10 +53,10 @@ To
 
 **GET /?username=&password[]=&submit=Login HTTP/2**
 
-for example if its challenge.com/?username=admin&password=admin&submit=Login
-i changed it to challenge.com/?username=&password[]=&submit=Login
+For example if the url is challenge.com/?username=admin&password=admin&submit=Login
+it will look like challenge.com/?username=&password[]=&submit=Login after changing
 
-Here is the flag in the form of error
+Here is the flag in the form of error. 
 
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/121932742/231860272-a9c5e469-4bfa-4c24-a8d8-34b529592302.png">
 
