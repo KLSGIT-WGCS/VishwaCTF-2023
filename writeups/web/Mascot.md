@@ -9,4 +9,25 @@ Very gracious host!!
 ## Methodology
 Deploying the challenge instance we are taken to a tic tac toe game website that looks like this
 
-![]
+![Image](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/tic_tac_toe.png)
+
+It's a simple game of tic tac toe. Clicking View Source just revealed javascript that was powering the game. We did not find anything of interest there. For quite some time we could not make much of what to do with it.
+
+So, we went the old school way. The one which every CS student resorts to when they can't find an efficient solution: brute-forcing. In this case [Directory Bruteforcing](https://www.makeuseof.com/what-is-directory-bursting/). Basically we scanned for any hidden folders/directories in the website.
+
+An automated tool like [dirb](https://www.kali.org/tools/dirb/) makes our job easier. We
+used a wordlist(available freely, only a google search away) and scanned for hidden directories, and boom we hit a match.
+
+![Image](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/dirb_ss.png)
+
+It was a .git folder, you know the one that is created whenever you create repos with **git init**. It helps git keep track of files:
+
+![Image](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/webpage_ss.png)
+
+Now we started navigating the files/folders and on opening the config file, we find a link to a github repository; its the repo containing the code for the website.
+
+![Image](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/config_ss.png)
+
+Navigating to the repo, and opening the FLAGGGGG.md file we get our flag !!
+
+> VishwaCTF{0ctOc@t_Ma5c0t}
