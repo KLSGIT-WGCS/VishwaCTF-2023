@@ -1,8 +1,6 @@
-# **Writeup - VishwaCTF**
-
-* Category **Steganography**
-* Name **CID**
-* Difficulty **Medium**
+# Steganography
+* Challenge Name : CID
+* Difficulty : Medium
 
 ## Attachments 
 
@@ -73,6 +71,10 @@ Enter passphrase:
 wrote extracted data to "flag.txt".
 ```
 
-eureka! the flag is here
+hurray! we got the flag !!
 
-flag: vishwaCTF{my_GOD_D4ya_tumn3_t0_fl4g_dhund_liy4....}
+> VishwaCTF{my_GOD_D4ya_tumn3_t0_fl4g_dhund_liy4....}
+
+Oh my god daya tum toh hacker ho
+
+![ACP](http://images.catchnews.com/upload/2018/01/31/544711_498978890177118_378601490_n-1_(1)_97411_730x419.jpg)
