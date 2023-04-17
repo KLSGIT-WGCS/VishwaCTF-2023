@@ -3,7 +3,8 @@
 <p align="center">
     <img src="https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png"  width="60%" height="auto"/>
 </p>
-*Resources from KLSGIT-WGCS*
+
+**Resources from KLSGIT-WGCS**
 
 ---------
 This repository contains writeups of the various challenges solved by team **fs0ciety** in VishwaCTF 2023.
