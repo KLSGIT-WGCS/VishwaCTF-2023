@@ -1,7 +1,7 @@
 # VishwaCTF-2023
 
 
-<img src="https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png" width="360px" height="auto"/>
+<img src="https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png" width="100%" height="auto"/>
 
 *Resources from KLSGIT-WGCS*
 
