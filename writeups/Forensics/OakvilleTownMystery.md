@@ -9,7 +9,7 @@ On March 27, 2023, a golden sceptre was taken from Oakville Town Hall. Suspect J
 
 #### Flag format: VishwaCTF{FirstNameLastNameTown}
 
-#### Assets/files : [image.jpg](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics/image.jpg), [database.db](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics/database.db) 
+#### Assets/files : [image.jpg](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics/assets/image.jpg), [database.db](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics/assets/database.db) 
 
 ---------
 
