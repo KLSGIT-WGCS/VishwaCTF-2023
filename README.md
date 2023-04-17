@@ -1,13 +1,12 @@
 # VishwaCTF-2023
 
 
-
-![Poster](https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png)
+<img src="https://klsgit-wgcs.github.io/VishwaCTF-2023/assets/VishwaCTF_Poster.png" width="360px" height="auto"/>
 
 *Resources from KLSGIT-WGCS*
 
 ---------
-This repository contains writeups of the various challenges solved by team fs0ciety in VishwaCTF 2023.
+This repository contains writeups of the various challenges solved by team **fs0ciety** in VishwaCTF 2023.
 
 Authors:
 * Prajwal G[***@mirai-cmd***](https://github.com/mirai-cmd)
