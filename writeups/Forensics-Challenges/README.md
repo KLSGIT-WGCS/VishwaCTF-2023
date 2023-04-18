@@ -4,4 +4,4 @@
 
 ---
 
-###### [Click Here](/) to go to the main page
+###### [Click Here](/README.md) to go to the main page
