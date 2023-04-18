@@ -6,4 +6,4 @@
 * [Forensics](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Forensics-Challenges)
 
 ---------
-###### [Click Here](http://klsgit-wgcs.github.io/VishwaCTF-2023) to go to main menu
+###### [Click Here](https://github.com/KLSGIT-WGCS/VishwaCTF-2023) to Check the repo
