@@ -2,5 +2,5 @@
 
 ### *Beginner Friendly challenges*
 
-* [Welcome](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Welcome/welcome) Challenge
-* [NiceGuys](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Welcome/NiceGuys) Challenge
+* [Welcome](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Welcome-Challenges/welcome) Challenge
+* [NiceGuys](http://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Welcome-Challenges/NiceGuys) Challenge
