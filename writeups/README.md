@@ -9,7 +9,7 @@
 
 ---
 
-###### [Click Here](/writeups/README.md) to go to the main page
+<a href="https://github.com/KLSGIT-WGCS/VishwaCTF-2023">Click Here</a> to go to the repository
 
 ---
 
