@@ -5,12 +5,12 @@
 ## Challenge Description
 My friend wanted to install an antivirus for his computer, but the creator of the antivirus was caught!
 
-##### Assets/files : [AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography/assets/AV.gif)
+##### Assets/files : [AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography-Challenges/assets/AV.gif)
 
 ## Methodology
 A .gif file was provided with the challenge. A seemingly normal gif that totally did not have anything hidden in it (or did it 👀):
 
-![AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography/assets/AV.gif)
+![AV.gif](https://klsgit-wgcs.github.io/VishwaCTF-2023/writeups/Steganography-Challenges/assets/AV.gif)
 
 We first ran [Exiftool](https://github.com/exiftool/exiftool) on the gif. Exiftool is an open-source tool that can be used for reading and writing metadata(some extra data about the image size,version etc) to a variety of files. An extract of the metadata given by Exiftool :
 
