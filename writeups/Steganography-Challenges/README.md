@@ -5,6 +5,6 @@
 
 ---
 
-###### [Click Here](https://github.com/KLSGIT-WGCS/VishwaCTF-2023) to go to the main page
+###### [Click Here](/writeups/README.md) to go to the main page
 
 ###### [Click Here](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Steganography-Challenges) to see other challenges in _steganography_

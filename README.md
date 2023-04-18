@@ -32,4 +32,4 @@ There are various categories of challenges like:
 
 For any doubts or queries regarding the writeups/challenges kindly reach out to the authors.
 
-# [Click Here](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/writeups) to access the writeups
+# [Click Here](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups) to access the writeups
