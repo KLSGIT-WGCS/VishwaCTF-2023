@@ -31,5 +31,6 @@ There are various categories of challenges like:
 - Steganography etc.
 
 For any doubts or queries regarding the writeups/challenges kindly reach out to the authors.
-
+## Kindly navigate to the writeups folder to access the files
+Or
 # [Click Here](/writeups/README.md) to access the writeups
