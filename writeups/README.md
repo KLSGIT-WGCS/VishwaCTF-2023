@@ -1,15 +1,15 @@
 ## The following writeup categories are available on the repository.
 
-- [Welcome](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Welcome-Challenges)
-- [Steganography](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Steganography-Challenges)
-- [Web](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Web-Challenges)
-- [Forensics](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Forensics-Challenges)
+- [Welcome](/writeups/Welcome-Challenges/README.md)
+- [Steganography](/writeups/Steganography-Challenges/README.md)
+- [Web](/writeups/Web-Challenges/README.md)
+- [Forensics](/writeups/Forensics-Challenges/README.md)
 
 ###### The repository is being updated continuously!
 
 ---
 
-<a href="https://github.com/KLSGIT-WGCS/VishwaCTF-2023">Click Here</a> to go to the repository
+<a href="/">Click Here</a> to go to the repository
 
 ---
 

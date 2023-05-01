@@ -1,6 +1,16 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: WGCS | VishwaCTF-2023 Resources
 description: Learn some CTF tips and tricks! Presented by the WGCS Club at KLSGIT
+author:
+  name: Darshan
+  email: contact@techbydsp.com
+
+defaults:
+  - scope:
+      path: ""
+      type: "directories"
+    values:
+      index: README.md

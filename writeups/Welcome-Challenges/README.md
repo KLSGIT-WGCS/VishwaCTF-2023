@@ -1,10 +1,10 @@
-# List of contents:
+## _Beginner Friendly challenges_
 
-### _Beginner Friendly challenges_
-
-- [Welcome](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Welcome-Challenges/welcome.md) Challenge &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟢
-- [NiceGuys](https://github.com/KLSGIT-WGCS/VishwaCTF-2023/blob/main/writeups/Welcome-Challenges/NiceGuys.md) Challenge &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟢
+- [Welcome](/writeups/Welcome-Challenges/welcome) Challenge
+- [NiceGuys](/writeups/Welcome-Challenges/NiceGuys) Challenge
 
 ---
 
-###### [Click Here](/writeups/README.md) to go to the main page
+###### [Click Here](/) to go to main menu
+
+###### [Click Here](/writeups/Welcome-Challenges) to see other challenges in _Welcome Challenges_

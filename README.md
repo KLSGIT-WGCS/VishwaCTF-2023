@@ -30,6 +30,6 @@ There are various categories of challenges like:
 - OSINT (Open Source Intelligence)
 - Steganography etc.
 
-For any doubts or queries regarding the writeups/challenges kindly reach out to the authors.
+For any doubts or queries regarding the writeups/challenges kindly reach out to the authors or contact us at [wgcs@git.edu](mailto:wgcs@git.edu)
 
 # [Click Here](/writeups/README.md) to access the writeups
