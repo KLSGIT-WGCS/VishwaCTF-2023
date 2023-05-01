@@ -9,7 +9,7 @@
 
 ---
 
-<a href="/">Click Here</a> to go to the repository
+<a href="https://github.com/thisisthedarshan/VishwaCTF-2023">Click Here</a> to go to the repository
 
 ---
 
