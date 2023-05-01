@@ -3,14 +3,16 @@ plugins:
   - jekyll-remote-theme
 
 baseurl: /VishwaCTF-2023
+
 title: WGCS | VishwaCTF-2023 Resources
 description: Learn some CTF tips and tricks! Presented by the WGCS Club at KLSGIT
 author:
   name: Darshan
   email: contact@techbydsp.com
 
-defaults:
-  - scope:
+defaults: 
+  - 
+  scope:
       path: ""
       type: "directories"
     values:
