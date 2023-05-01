@@ -1,7 +1,7 @@
 ## _Beginner Friendly challenges_
 
-- [Welcome](/writeups/Welcome-Challenges/welcome) Challenge
-- [NiceGuys](/writeups/Welcome-Challenges/NiceGuys) Challenge
+- [Welcome](/writeups/Welcome-Challenges/welcome.md) Challenge
+- [NiceGuys](/writeups/Welcome-Challenges/NiceGuys.md) Challenge
 
 ---
 
