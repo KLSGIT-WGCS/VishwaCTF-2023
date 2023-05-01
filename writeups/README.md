@@ -1,9 +1,9 @@
 ## The following writeup categories are available on the repository.
 
-- [Welcome](/writeups/Welcome-Challenges/)
-- [Steganography](/writeups/Steganography-Challenges/)
-- [Web](/writeups/Web-Challenges/)
-- [Forensics](/writeups/Forensics-Challenges/)
+- [Welcome](./Welcome-Challenges/)
+- [Steganography](./Steganography-Challenges/)
+- [Web](./Web-Challenges/)
+- [Forensics](./Forensics-Challenges/)
 
 ###### The repository is being updated continuously!
 

@@ -32,4 +32,4 @@ There are various categories of challenges like:
 
 For any doubts or queries regarding the writeups/challenges kindly reach out to the authors or contact us at [wgcs@git.edu](mailto:wgcs@git.edu)
 
-# [Click Here](/writeups/README.md) to access the writeups
+# [Click Here](./writeups/README.md) to access the writeups
