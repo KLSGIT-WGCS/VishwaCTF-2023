@@ -10,9 +10,8 @@ author:
   name: Darshan
   email: contact@techbydsp.com
 
-defaults: 
-  - 
-  scope:
+defaults:
+  - scope:
       path: ""
       type: "directories"
     values:
