@@ -1,7 +1,9 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
-baseurl: "/VishwaCTF-2023"
+
+baseurl: /VishwaCTF-2023
+
 title: WGCS | VishwaCTF-2023 Resources
 description: Learn some CTF tips and tricks! Presented by the WGCS Club at KLSGIT
 author:
