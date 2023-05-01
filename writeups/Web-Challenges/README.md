@@ -6,6 +6,6 @@
 
 ---
 
-###### [Click Here](/writeups/README.md) to go to the main page
+###### [Click Here](/writeups/) to go to the main page
 
 ###### [Click Here](/writeups/Web-Challenges) to see other challenges in _web_

@@ -5,6 +5,6 @@
 
 ---
 
-###### [Click Here](/) to go to main menu
+###### [Click Here](/writeups/) to go to the main page
 
 ###### [Click Here](/writeups/Welcome-Challenges) to see other challenges in _Welcome Challenges_
